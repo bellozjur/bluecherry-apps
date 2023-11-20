@@ -1,0 +1,1 @@
+utils/onvif_tool filter=lfs diff=lfs merge=lfs -text
